@@ -1,0 +1,23 @@
+D:\VB2005\test\Tesst\Tesst\obj\Debug\Tesst.Form1.resources
+D:\VB2005\test\Tesst\Tesst\obj\Debug\Tesst.Resources.resources
+D:\VB2005\test\Tesst\Tesst\obj\Debug\Tesst.vbproj.GenerateResource.Cache
+D:\VB2005\test\Tesst\Tesst\bin\Debug\Alarm Clock.exe
+D:\VB2005\test\Tesst\Tesst\bin\Debug\Alarm Clock.pdb
+D:\VB2005\test\Tesst\Tesst\bin\Debug\Alarm Clock.xml
+D:\VB2005\test\Tesst\Tesst\obj\Debug\Alarm Clock.exe
+D:\VB2005\test\Tesst\Tesst\obj\Debug\Alarm Clock.xml
+D:\VB2005\test\Tesst\Tesst\obj\Debug\Alarm Clock.pdb
+D:\VB2005\test\Tesst\Tesst\obj\Debug\Tesst.vbprojResolveAssemblyReference.cache
+D:\VB2005\TimeerVLX\Tesst\Tesst\obj\Debug\Alarm Clock.exe
+D:\VB2005\TimeerVLX\Tesst\Tesst\obj\Debug\Alarm Clock.xml
+D:\VB2005\TimeerVLX\Tesst\Tesst\obj\Debug\Alarm Clock.pdb
+D:\VB2005\TimeerVLX\Tesst\Tesst\bin\Debug\Alarm Clock.exe
+D:\VB2005\TimeerVLX\Tesst\Tesst\bin\Debug\Alarm Clock.pdb
+D:\VB2005\TimeerVLX\Tesst\Tesst\bin\Debug\Alarm Clock.xml
+D:\VB2005\TimeerVLX\Tesst\Tesst\obj\Debug\Tesst.Form1.resources
+D:\VB2005\TimeerVLX\Tesst\Tesst\obj\Debug\Tesst.Resources.resources
+D:\VB2005\TimeerVLX\Tesst\Tesst\obj\Debug\Tesst.vbproj.GenerateResource.Cache
+D:\VB2005\TimeerVLX\Tesst\Tesst\obj\Debug\Tesst.vbproj.CoreCompileInputs.cache
+D:\VB2005\TimeerVLX\Tesst\Tesst\bin\Alarm\Alarm Clock.exe
+D:\VB2005\TimeerVLX\Tesst\Tesst\bin\Alarm\Alarm Clock.pdb
+D:\VB2005\TimeerVLX\Tesst\Tesst\bin\Alarm\Alarm Clock.xml
